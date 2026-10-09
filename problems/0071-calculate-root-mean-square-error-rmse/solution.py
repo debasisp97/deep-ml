@@ -15,7 +15,9 @@ def rmse(y_true, y_pred):
 		raise Exception("Mismatch size")
 	
 	diff= y_true - y_pred
-	sq_diff= diff**2
-	ssr= np.mean(sq_diff)
-	rmse_res= np.sqrt(ssr)
+	# sq_diff= diff**2
+	# ssr= np.mean(sq_diff)
+	# rmse_res= np.sqrt(ssr)
+
+	rmse_res = np.sqrt( np.mean(diff**2))
 	return round(rmse_res,3)
