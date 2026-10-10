@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:46:45.158Z",
+  "generated_at": "2026-10-10T09:24:21.463Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -128,6 +128,19 @@
       "last_pushed_at": "2026-10-10T06:46:42.824Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-10-10T09:24:19.289Z",
+      "last_pushed_at": "2026-10-10T09:24:19.289Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
