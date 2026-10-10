@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:40:43.930Z",
+  "generated_at": "2026-10-10T06:46:45.158Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -115,6 +115,19 @@
       "last_pushed_at": "2026-10-09T17:40:41.312Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:106": {
+      "kind": "problem",
+      "id": "106",
+      "title": "Train Logistic Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/106",
+      "path": "problems/0106-train-logistic-regression-with-gradient-descent",
+      "first_solved_at": "2026-10-10T06:46:42.824Z",
+      "last_pushed_at": "2026-10-10T06:46:42.824Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
